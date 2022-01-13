@@ -3,14 +3,14 @@
 ### H3
 **bold text** 
 *italicized text* 
-> blockquote>
-> 1. First item
+> blockquote
+1. First item
 2. Second item
 3. Third item
-> - First item
+- First item
 - Second item
-- Third item>
-> 	`code`
-> 	---
-> 	[newPage](https://c5du.github.io/cse15l-lab-reports/new.md)
-> 	![cat](https://upload.wikimedia.org/wikipedia/commons/c/c7/Tabby_cat_with_blue_eyes-3336579.jpg)
+- Third item
+`code`
+---
+[newPage](https://c5du.github.io/cse15l-lab-reports/new.md)
+![cat](https://upload.wikimedia.org/wikipedia/commons/c/c7/Tabby_cat_with_blue_eyes-3336579.jpg)
