@@ -1,7 +1,9 @@
-# H1 Hello World!
+# H1
+## H2
+### H3
 **bold text** 
 *italicized text* 
-> blockquote
+> blockquote<
 > 1. First item
 > 2. Second item
 > 3. Third item
@@ -10,5 +12,5 @@
 > 	- Third item
 > 	`code`
 > 	---
-> 	[title](https://www.example.com)
-> 	![alt text](image.jpg)
+> 	[newPage](https://c5du.github.io/cse15l-lab-reports/new.md)
+> 	![cat](https://upload.wikimedia.org/wikipedia/commons/c/c7/Tabby_cat_with_blue_eyes-3336579.jpg)
