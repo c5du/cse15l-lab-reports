@@ -1,3 +1,6 @@
+Link to Week 2 Lab Report: [Week2](https://c5du.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
+
+Link to Week 4 Lab Report: [Week4](https://c5du.github.io/cse15l-lab-reports/lab-report-week-4.html)
 # H1
 ## H2
 ### H3
