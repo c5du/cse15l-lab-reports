@@ -3,7 +3,7 @@
 ## Installing VScode
 If you already have VScode you can skip this step. If not, use the link [Visual Studio Code](https://code.visualstudio.com/) to download VScode onto your computer. 
 If you have Windows, use the button in this photo.
-![windows](vsWindows.PNG)
+![windows](photos/vsWindows.PNG)
 
 If you have a Mac or want to use a different version, scroll to the bottom and use this:
 ![mac](vsOther.PNG)
