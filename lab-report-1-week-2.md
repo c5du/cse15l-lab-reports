@@ -76,6 +76,7 @@ Now we want to try to speed up our commands. So if we want to make our local edi
 `ssh cs15lwi22zz@ieng6.ucsd.edu javac WhereAmI.java`  
 
 `ssh cs15lwi22zz@ieng6.ucsd.edu java WhereAmI` 
+
 But you can combine each line with a semicolon. For example:
 ![allInOne](photos/allInOne.PNG)
 If you were typing everything out the the first methods would take around 140 keystrokes, and the 2nd method would take around 110 keystrokes. Though the difference in keystrokes is not a huge difference, a lot of time is saved using the 2nd method since you don't have to wait for the output between each line since you are writing them all at once. Another benefit is that if we had previously written the lines earlier in the terminal, for the 2nd method you could click the up-arrow until you reach that one line and be done. But for the 1st method you would have to use the up-arrow 3 times for each code.
