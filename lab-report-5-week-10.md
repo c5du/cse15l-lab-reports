@@ -23,7 +23,7 @@ Joe's implementation didn't account for the `<` and `>` signs. It shouldn't have
 
 File name: 41.md(692c692)
 
-Mine gave back ` [url &quot;tit&quot;]`
+Mine gave back `[url &quot;tit&quot;]`
 
 Joe's gave back `[]`
 
