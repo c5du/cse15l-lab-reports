@@ -17,7 +17,10 @@ For this test, our teams implementation was correct. We figured this out by look
 
 [foo]
 ```
-Joe's implementation didn't account for the `<` and `>` signs. It shouldn't have counted as a link but Joe's put it as a link
+Joe's implementation didn't account for the `<` and `>` signs. It shouldn't have counted as a link but Joe's put it as a link.
+In order to fix this we should look at this method:
+![joe's](photos/joebreak.png)
+Before we set the openParen, we should check if there are any `<` signs in between the brackets and the parenthesis.
 
 ## Second Difference
 
@@ -31,5 +34,8 @@ For this test Joe's implementation was correct. We found the right result the sa
 ```
 [a](url &quot;tit&quot;)
 ```
-This should not count as a link because of the `&` signs, but our implementation didn't check for them.
+This should not count as a link because of the space between 'url' and the rest on the phrase inside the parenthesis.
+In order to fix this we should look at the method:
+![mine](photos/minebreak.png)
+When we get the open and closed parenthesis, we should check if there are any spaces in between the two of them.
 
